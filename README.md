@@ -13,9 +13,28 @@ ___
 * 안녕하세요
 * Hi
 * Hello
+  * 2뎁스 리스트
+  * 이렇게 되는군
+  
+  
+- 대쉬
+- 대쉬2
+  - 대쉬2-1
+  - 대쉬4-1
+  
+ 
 
 강조같은 것을 할때는 이렇게 **강조**를 할 수 있지여 ㅋㅋ
+underbar __underbar__
 이태릭체는 이렇게 *이태릭* 한다고 하던데
+underbar _underbar_
+
+
+링크를 삽입하고 싶다면
+구글 링크 > [http://www.google.co.kr](http://www.google.co.kr)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 >이렇게 하므 또 뭐시기가 나오고
 
