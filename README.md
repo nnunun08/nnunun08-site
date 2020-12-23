@@ -27,3 +27,7 @@ table은 이렇게
 |:--|:--|
 |컬럼이 어떻게 생기는가|요렇게 생기지유|
 
+
+이미지 삽입은 이렇게
+
+![구글에서 대쉬보드 불러옴](https://s21089.pcdn.co/wp-content/uploads/features/analytics/dashboard.jpg)
