@@ -1,13 +1,13 @@
-#heading1
-##heading2
-###heading3
-####heading4
-#####heading5
-######heading6
+# heading1
+## heading2
+### heading3
+#### heading4
+##### heading5
+###### heading6
 
-#대제목 밑에 밑줄이 쫘악 생겨야되는디
+# 대제목 밑에 밑줄이 쫘악 생겨야되는디
 
-##안녕하세요
+## 안녕하세요
 ___
 아래와 같은 리스트가 있습니다
 * 안녕하세요
