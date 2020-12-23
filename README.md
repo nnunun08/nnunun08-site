@@ -31,7 +31,8 @@ underbar _underbar_
 
 
 링크를 삽입하고 싶다면
-구글 링크 > [http://www.google.co.kr](http://www.google.co.kr)
+
+구글 링크 > [구글 바로가기](http://www.google.co.kr)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
