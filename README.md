@@ -23,12 +23,12 @@ ___
   - 대쉬4-1
   
 ul liㄹ 한다면
-1. list1
-2. list2
- 1. list2-1
- 2. list2-2
-  
- 
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   1. language korean error
 
 강조같은 것을 할때는 이렇게 **강조**를 할 수 있지여 ㅋㅋ
 underbar __underbar__
